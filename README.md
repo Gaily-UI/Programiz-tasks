@@ -1,0 +1,1 @@
+Write a program using switch statement to select the day of the week.
